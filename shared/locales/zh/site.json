@@ -323,7 +323,7 @@
         "note": "对话框中确认或接受选择的按钮文本"
     },
     "navigationBack": {
-        "title": "返回",
+        "title": "",
         "note": "iOS顶部导航栏的ARIA标签和可见文本"
     },
     "enableProtectionsSwitch": {
