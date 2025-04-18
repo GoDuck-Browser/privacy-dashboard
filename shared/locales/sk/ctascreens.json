@@ -13,15 +13,15 @@
     "note" : "'Special pages' here means things like the browser settings page, whereas 'local pages' means files opened from the user's computer rather than the internet"
   },
   "spreadTitle" : {
-    "title" : "Radi používate GoDuck?",
-    "note" : "Title text for 'Spread GoDuck' CTA"
+    "title" : "Radi používate DuckDuckGo?",
+    "note" : "Title text for 'Spread DuckDuckGo' CTA"
   },
   "spreadText" : {
-    "title" : "Povedzte o GoDuck rodine a priateľom",
-    "note" : "Secondary text for 'Spread GoDuck' CTA"
+    "title" : "Povedzte o DuckDuckGo rodine a priateľom",
+    "note" : "Secondary text for 'Spread DuckDuckGo' CTA"
   },
   "spreadButton" : {
-    "title" : "Rozšíriť GoDuck",
+    "title" : "Rozšíriť DuckDuckGo",
     "note" : "Button text for 'spread' CTA"
   },
   "emailTitle" : {
@@ -29,7 +29,7 @@
     "note" : "Title text for 'Email Protection' CTA"
   },
   "emailText" : {
-    "title" : "Zaregistrujte si svoje rozšírenie GoDuck na ochranu e-mailov teraz!",
+    "title" : "Zaregistrujte si svoje rozšírenie DuckDuckGo na ochranu e-mailov teraz!",
     "note" : "Extension here means browser extension or addon"
   }
 }

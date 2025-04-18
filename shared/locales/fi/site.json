@@ -296,7 +296,7 @@
     "note" : "Used to describe the type of tracker, in this case one that is used by embedded content"
   },
   "searchPlaceholder" : {
-    "title" : "Hae GoDuck:sta",
+    "title" : "Hae DuckDuckGo:sta",
     "note" : "Placeholder text for the search bar"
   },
   "searchGoButton" : {
