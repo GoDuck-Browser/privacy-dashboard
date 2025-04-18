@@ -245,7 +245,7 @@
     "note" : "A link pointing to an help page explaining how our search ads impact our protections"
   },
   "sectionHeadingAdAttribution" : {
-    "title" : "Naslednji zahtevki domen so bili naloženi, ker ste pred kratkim kliknili oglas {domain} na portalu DuckDuckGo. Ti zahtevki pomagajo oceniti učinkovitost oglasa. Vsi oglasi na DuckDuckGo so neprofilirani.",
+    "title" : "Naslednji zahtevki domen so bili naloženi, ker ste pred kratkim kliknili oglas {domain} na portalu GoDuck. Ti zahtevki pomagajo oceniti učinkovitost oglasa. Vsi oglasi na GoDuck so neprofilirani.",
     "note" : "The placeholder stands for a company name"
   },
   "sectionHeadingIgnore" : {
@@ -296,7 +296,7 @@
     "note" : "Used to describe the type of tracker, in this case one that is used by embedded content"
   },
   "searchPlaceholder" : {
-    "title" : "Iščite po DuckDuckGo",
+    "title" : "Iščite po GoDuck",
     "note" : "Placeholder text for the search bar"
   },
   "searchGoButton" : {
